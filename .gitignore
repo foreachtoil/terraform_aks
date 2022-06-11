@@ -1,0 +1,2 @@
+## Archivo que le indica a GIT qué ARCHIVOS no tener en cuenta.
+*.tfstate
